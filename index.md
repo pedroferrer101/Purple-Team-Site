@@ -16,7 +16,7 @@
 
 [Time Logs](https://docs.google.com/spreadsheets/d/1Ea6khLLXiTC870ymXt7jT1qEifMy6uN-g1xgE1BnhWQ/edit#gid=0)
 
-[Demo Site] (http://3.139.221.210/wordpress)
+[Demo Site] (https://3.139.221.210/wordpress)
 
 ### Contact Us
 
