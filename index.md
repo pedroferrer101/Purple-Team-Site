@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# CSC 394 Purple Team Spring '21
 
-You can use the [editor on GitHub](https://github.com/pedroferrer101/Purple-Team-Site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#### Team Roles
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Antonio Pavloski**: Project Manager/Presentation Manager
+**Pedro Ferrer**: Planning Manager/Remote Collaboration Manager
+**Joseph Puglise**: Implementation Manager/Video Manager
+**Ryne Kolessar**: Systems Programmer/Design Manager
+**Kinji Ridley**: Requirements Manager/Documentation Manager
+**Jia "Jeffery" Fen Lin**: Webmaster/Usabliity (Interface) Manager
+**Parth Rana**: Testing Manager
 
-### Markdown
+#### Links
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Concept Demo Video](https://www.youtube.com/watch?v=AwHswhC4Ab0&ab_channel=--)
 
-```markdown
-Syntax highlighted code block
+[Time Logs](https://docs.google.com/spreadsheets/d/1Ea6khLLXiTC870ymXt7jT1qEifMy6uN-g1xgE1BnhWQ/edit#gid=0)
 
-# Header 1
-## Header 2
-### Header 3
+[Demo Site (as of 4/6/2021)] (http://3.139.221.210/wordpress/)
 
-- Bulleted
-- List
+### Contact Us
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pedroferrer101/Purple-Team-Site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Any concerns? If so, contact us at any of the following emails:
+- apavloski32@gmail.com
+- pedroferrer101@gmail.com
+- jp.depaul.edu@gmail.com
+- ryne.kolessar@gmail.com
+- elerbee454@gmail.com
+- jflin0701@gmail.com
+- parthkrana2@gmail.com
