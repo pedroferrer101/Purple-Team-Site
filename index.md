@@ -1,6 +1,6 @@
 # CSC 394 Purple Team Spring '21
 
-#### Team Roles
+### Team Roles
 
 - **Antonio Pavloski**: Project Manager/Presentation Manager
 - **Pedro Ferrer**: Planning Manager/Remote Collaboration Manager
@@ -10,13 +10,13 @@
 - **Jia "Jeffery" Fen Lin**: Webmaster/Usabliity (Interface) Manager
 - **Parth Rana**: Testing Manager
 
-#### Links
+### Links
 
 [Concept Demo Video](https://www.youtube.com/watch?v=AwHswhC4Ab0&ab_channel=--)
 
 [Time Logs](https://docs.google.com/spreadsheets/d/1Ea6khLLXiTC870ymXt7jT1qEifMy6uN-g1xgE1BnhWQ/edit#gid=0)
 
-[Demo Site (as of 4/6/2021)] (http://3.139.221.210/wordpress)
+[Demo Site] (http://3.139.221.210/wordpress)
 
 ### Contact Us
 
